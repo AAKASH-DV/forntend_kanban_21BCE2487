@@ -2,7 +2,7 @@
   "name": "kanban-board",
   "version": "0.1.0",
   "homepage": "https://<aakash-dv>.github.io/<frontend_kanban_21bce2487>/",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
